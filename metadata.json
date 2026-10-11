@@ -1,0 +1,8 @@
+{
+  "name": "ThanhÂm - Chuyển Văn Bản Thành Giọng Đọc AI",
+  "description": "Công cụ chuyển đổi văn bản tiếng Việt sang giọng đọc AI tự nhiên (ElevenLabs, Adam...), tùy chỉnh tốc độ, cao độ, tải tệp MP3 và chia sẻ nhanh chóng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

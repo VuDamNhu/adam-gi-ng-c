@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+}
+
+/* Custom minimal audio range inputs */
+input[type="range"] {
+  accent-color: #171717;
+}
+
+/* Tabular figures for time and counter displays */
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
